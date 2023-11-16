@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nicko311
-- 👀 I’m interested in advancing my knowledge on Web/UI/UX Development and Design, and Data Analytics.
+- 👀 I’m interested in furthering my knowledge on Front-End Design concepts and learning Application Security.
 - 🌱 Currently possess certifications in Javascript, HTML/CSS, Python, and SQL.
 - 💞️ I’m looking to collaborate with individuals who aim to challenge themselves with coding, as well as working on various projects as a team.
 - 📫 How to reach me: nickosolis311@gmail.com
